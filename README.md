@@ -1,12 +1,24 @@
-# TO-DO-LIST
+# 📝 Todo List Web App
 
-TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+A clean and responsive full-featured **Todo List Web Application** built using **HTML, CSS, and JavaScript**. The app allows users to create, manage, filter, and track their daily tasks efficiently with a polished UI.
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+---
 
-ABOUT THIS PROJECT-:
+## 🚀 Features
 
-  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
-  2. Built a To-Do List application to make a list of daily works written down in one place.
-  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
- 
+- ✅ Add, complete, and delete tasks
+- ✅ Filter tasks: All / Pending / Completed
+- ✅ Delete all or only completed tasks
+- ✅ Responsive design
+- ✅ Dark-friendly theme using [DaisyUI's `bumblebee` theme](https://daisyui.com/themes/)
+- ✅ Clean animations & interactive UI
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: HTML, CSS (custom + Tailwind-inspired classes), JavaScript
+- **Icons**: Boxicons CDN
+- **Fonts**: Google Fonts (Poppins)
+- **Theme**: DaisyUI (via `data-theme="bumblebee"` attribute)
+
